@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE943ECF-B68A-4E0B-B25A-F45BC7BE5C11}|SPT3Test\\SPT3Test.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\spt3test\\usuariocontrollertestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE943ECF-B68A-4E0B-B25A-F45BC7BE5C11}|SPT3Test\\SPT3Test.csproj|solutionrelative:spt3test\\usuariocontrollertestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\controllers\\formulariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\controllers\\formulariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\models\\mappings\\usuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\models\\mappings\\usuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001715_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasSPT3\\Migrations\\20240917001715_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\data\\fiapdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\data\\fiapdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001432_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasSPT3\\Migrations\\20240917001432_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001409_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasSPT3\\Migrations\\20240917001409_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001347_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasSPT3\\Migrations\\20240917001347_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001323_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasSPT3\\Migrations\\20240917001323_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\models\\mappings\\formulariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\models\\mappings\\formulariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\models\\mappings\\produtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\models\\mappings\\produtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\repositorios\\formulariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\repositorios\\formulariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\repositorios\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\repositorios\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\models\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\models\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\extentions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\extentions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\extentions\\integerextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\extentions\\integerextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\repositorios\\interfaces\\iformulariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\repositorios\\interfaces\\iformulariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|c:\\users\\rafaela\\downloads\\tarefasspt3 - copia\\tarefasspt3 - copia\\tarefasspt3\\repositorios\\interfaces\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248732A-8FCB-4645-BDDA-4E51965A7565}|TarefasSPT3\\TarefasSPT3.csproj|solutionrelative:tarefasspt3\\repositorios\\interfaces\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioControllerTestes.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\SPT3Test\\UsuarioControllerTestes.cs",
+              "RelativeDocumentMoniker": "SPT3Test\\UsuarioControllerTestes.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\SPT3Test\\UsuarioControllerTestes.cs",
+              "RelativeToolTip": "SPT3Test\\UsuarioControllerTestes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:37:14.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Controllers\\FormularioController.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Controllers\\FormularioController.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Controllers\\FormularioController.cs",
+              "RelativeToolTip": "TarefasSPT3\\Controllers\\FormularioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:30:23.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "TarefasSPT3\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:25:35.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240917001715_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001715_InitialDB.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Migrations\\20240917001715_InitialDB.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001715_InitialDB.cs",
+              "RelativeToolTip": "TarefasSPT3\\Migrations\\20240917001715_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:17:16.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240917001432_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001432_initial.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Migrations\\20240917001432_initial.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001432_initial.cs",
+              "RelativeToolTip": "TarefasSPT3\\Migrations\\20240917001432_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:14:32.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240917001409_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001409_Initial.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Migrations\\20240917001409_Initial.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001409_Initial.cs",
+              "RelativeToolTip": "TarefasSPT3\\Migrations\\20240917001409_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:14:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240917001347_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001347_InitialDB.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Migrations\\20240917001347_InitialDB.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001347_InitialDB.cs",
+              "RelativeToolTip": "TarefasSPT3\\Migrations\\20240917001347_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:13:48.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240917001323_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001323_InitialDB.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Migrations\\20240917001323_InitialDB.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Migrations\\20240917001323_InitialDB.cs",
+              "RelativeToolTip": "TarefasSPT3\\Migrations\\20240917001323_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:13:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FIAPDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Data\\FIAPDBContext.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Data\\FIAPDBContext.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Data\\FIAPDBContext.cs",
+              "RelativeToolTip": "TarefasSPT3\\Data\\FIAPDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:56:20.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "TarefasSPT3\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:36:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "TarefasSPT3\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:35:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Repositorios\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "TarefasSPT3\\Repositorios\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:34:56.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Repositorios\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "TarefasSPT3\\Repositorios\\ProdutoRepositorio.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:34:52.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormularioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\FormularioRepositorio.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Repositorios\\FormularioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\FormularioRepositorio.cs",
+              "RelativeToolTip": "TarefasSPT3\\Repositorios\\FormularioRepositorio.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:34:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\Interfaces\\IProduto.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Repositorios\\Interfaces\\IProduto.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\Interfaces\\IProduto.cs",
+              "RelativeToolTip": "TarefasSPT3\\Repositorios\\Interfaces\\IProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:34:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IFormularioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\Interfaces\\IFormularioRepositorio.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Repositorios\\Interfaces\\IFormularioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Repositorios\\Interfaces\\IFormularioRepositorio.cs",
+              "RelativeToolTip": "TarefasSPT3\\Repositorios\\Interfaces\\IFormularioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:33:30.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Usuario.cs",
+              "RelativeToolTip": "TarefasSPT3\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:32:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Mappings\\UsuarioMapping.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Models\\Mappings\\UsuarioMapping.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Mappings\\UsuarioMapping.cs",
+              "RelativeToolTip": "TarefasSPT3\\Models\\Mappings\\UsuarioMapping.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:33:15.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Mappings\\ProdutoMapping.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Models\\Mappings\\ProdutoMapping.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Mappings\\ProdutoMapping.cs",
+              "RelativeToolTip": "TarefasSPT3\\Models\\Mappings\\ProdutoMapping.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:32:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormularioMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Mappings\\FormularioMapping.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Models\\Mappings\\FormularioMapping.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Mappings\\FormularioMapping.cs",
+              "RelativeToolTip": "TarefasSPT3\\Models\\Mappings\\FormularioMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:31:52.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Produto.cs",
+              "RelativeToolTip": "TarefasSPT3\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:59:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Formulario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Formulario.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Models\\Formulario.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Models\\Formulario.cs",
+              "RelativeToolTip": "TarefasSPT3\\Models\\Formulario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:59:26.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IntegerExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Extentions\\IntegerExtentions.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Extentions\\IntegerExtentions.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Extentions\\IntegerExtentions.cs",
+              "RelativeToolTip": "TarefasSPT3\\Extentions\\IntegerExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:45:07.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceCollectionExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Extentions\\ServiceCollectionExtentions.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Extentions\\ServiceCollectionExtentions.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Extentions\\ServiceCollectionExtentions.cs",
+              "RelativeToolTip": "TarefasSPT3\\Extentions\\ServiceCollectionExtentions.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:36:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Configuration\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Configuration\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Configuration\\AppConfiguration.cs",
+              "RelativeToolTip": "TarefasSPT3\\Configuration\\AppConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:31:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Program.cs",
+              "RelativeDocumentMoniker": "TarefasSPT3\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\Program.cs",
+              "RelativeToolTip": "TarefasSPT3\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:19:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\appsettings.json",
+              "RelativeDocumentMoniker": "TarefasSPT3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rafaela\\Downloads\\TarefasSPT3 - Copia\\TarefasSPT3 - Copia\\TarefasSPT3\\appsettings.json",
+              "RelativeToolTip": "TarefasSPT3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T01:36:48.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
