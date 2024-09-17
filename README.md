@@ -1,116 +1,74 @@
 # DirtyCode
 
-Bem-vindo ao repositório do **DirtyCode**! Este projeto é uma API desenvolvida com ASP.NET Core para gerenciar dados relacionados a usuários, produtos, arquivos e previsões.
+Bem-vindo ao repositório do projeto *DirtyCode*! Este repositório contém o código-fonte da nossa API, desenvolvida para atender aos requisitos do nosso projeto acadêmico.
 
-## Integrantes do Grupo
 
-- **Matheus Chagas de Moraes Sampaio** – RM550489 (2TDSPH)
-- **Paulo Henrique Moreira Angueira** – RM99704 (2TDSPH)
-- **Victor Hugo Astorino Barra Mansa** – RM550573 (2TDSPH)
-- **Aleck Ramos Cappucci** – RM551340 (2TDSPM)
-- **Murilo Ribeiro Valério da Silva** – RM550858 (2TDSPF)
+## Arquitetura
 
-## Arquitetura do Projeto
+Para o desenvolvimento da API, optamos por uma *arquitetura monolítica*. Neste modelo, a aplicação é construída como uma unidade coesa, com todos os componentes — como lógica de negócios, acesso a dados e autenticação — integrados em um único projeto e operando como um único processo.
 
-O projeto **DirtyCode** segue uma arquitetura baseada em princípios de Clean Architecture e Design Patterns, utilizando o padrão **Repository** para a separação da lógica de acesso a dados e a lógica de negócios. A API foi construída com ASP.NET Core e .NET 8, e está estruturada da seguinte forma:
+### Justificativa da Arquitetura
 
-### **Estrutura de Diretórios**
+- *Fase Inicial de Desenvolvimento e Validação:* A arquitetura monolítica permite um desenvolvimento ágil e menos complexo, ideal para validar o modelo de negócio e as funcionalidades principais de forma rápida e eficiente.
+- *Menor Complexidade e Facilidade de Manutenção:* É mais fácil de desenvolver, implantar e manter no curto prazo, reduzindo a sobrecarga de gerenciar múltiplos serviços e simplificando a integração e testes da API.
+- *Custo-Efetividade:* Requer menos infraestrutura inicial, o que é crucial para a gestão eficiente de recursos na fase atual do projeto.
+- *Facilidade de Escalabilidade Gradual:* Permite uma transição gradual para uma arquitetura mais modular conforme o projeto cresce, facilitando a migração para microservices quando necessário.
+- *Simplicidade de Debug e Testes:* Proporciona um ambiente de desenvolvimento mais integrado, facilitando a configuração e execução de testes.
 
-- **Controllers**: Contém os controladores da API, responsáveis por lidar com as requisições HTTP e retornar respostas.
-- **Models**: Define os modelos de dados usados na API.
-- **Repository**: Implementa o padrão Repository para abstração do acesso a dados.
-- **DataBase**: Contém o contexto do banco de dados e configurações relacionadas.
+## Design Patterns Utilizados
 
-### **Design Patterns Utilizados**
+Durante o desenvolvimento da API, adotamos os seguintes *design patterns* para garantir uma estrutura robusta e escalável:
 
-1. **Repository Pattern**: Utilizado para separar a lógica de acesso a dados da lógica de negócios. Permite uma fácil substituição da implementação de dados sem impactar o restante da aplicação.
-2. **Unit of Work Pattern**: Gerencia as transações e mudanças no banco de dados de forma coesa.
-3. **Dependency Injection**: Facilita a injeção de dependências, promovendo o desacoplamento entre as classes.
+- *Repository Pattern:* Para encapsular o acesso a dados e separar a lógica de persistência da lógica de negócios.
+
+- *Service Pattern:* Para organizar a lógica de negócios em serviços distintos, promovendo a reutilização e manutenção do código.
+
+- *Dependency Injection:* Para facilitar a gestão das dependências e promover um código mais testável e desacoplado.
 
 ## Instruções para Rodar a API
 
-### **Pré-requisitos**
+Para rodar a API localmente, siga os passos abaixo:
 
-- [.NET SDK 8](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) ou outro banco de dados compatível
+1. *Clone o Repositório:*
 
-### **Passos para Execução**
+    bash
+    git clone https://github.com/seuusuario/DirtyCode.git
+    cd DirtyCode
+    
 
-1. **Clone o Repositório**
+2. *Configure o Ambiente:*
+   
+   Certifique-se de ter o [.NET 8](https://dotnet.microsoft.com/download/dotnet/8.0) instalado.
 
-   ```bash
-   git clone https://github.com/SeuUsuario/DirtyCode.git
-   cd DirtyCode
-   ```
+3. *Restaurar Pacotes NuGet:*
 
-2. **Configure a String de Conexão**
+    bash
+    dotnet restore
+    
 
-   Edite o arquivo `appsettings.json` para configurar a string de conexão com o banco de dados:
+4. *Compilar a Aplicação:*
 
-   ```json
-   "ConnectionStrings": {
-     "DefaultConnection": "Data Source=localhost;Initial Catalog=DirtyCodeDB;Integrated Security=True"
-   }
-   ```
+    bash
+    dotnet build
+    
 
-3. **Restaure as Dependências**
+5. *Executar a API:*
 
-   ```bash
-   dotnet restore
-   ```
+    bash
+    dotnet run
+    
 
-4. **Atualize o Banco de Dados**
+   A API estará disponível em http://localhost:5000 por padrão.
 
-   Aplique as migrations para criar o banco de dados e as tabelas necessárias:
 
-   ```bash
-   dotnet ef database update
-   ```
 
-5. **Execute a Aplicação**
+## Integrantes do Grupo
 
-   ```bash
-   dotnet run
-   ```
-
-6. **Acesse a API**
-
-   A API estará disponível em `https://localhost:5001` (ou a porta configurada). Você pode usar o Swagger UI para explorar e testar os endpoints em `https://localhost:5001/swagger`.
-
-## Documentação da API
-
-A API fornece os seguintes endpoints:
-
-- **Usuários**
-  - `GET /api/usuario` – Buscar todos os usuários
-  - `GET /api/usuario/{id}` – Buscar usuário por ID
-  - `POST /api/usuario` – Cadastrar um novo usuário
-  - `PUT /api/usuario/{id}` – Atualizar um usuário existente
-  - `DELETE /api/usuario/{id}` – Apagar um usuário
-
-- **Produtos**
-  - `GET /api/produto` – Buscar todos os produtos
-  - `GET /api/produto/{id}` – Buscar produto por ID
-  - `POST /api/produto` – Cadastrar um novo produto
-  - `PUT /api/produto/{id}` – Atualizar um produto existente
-  - `DELETE /api/produto/{id}` – Apagar um produto
-
-- **Arquivos**
-  - `GET /api/arquivo` – Buscar todos os arquivos
-  - `GET /api/arquivo/{id}` – Buscar arquivo por ID
-  - `POST /api/arquivo` – Cadastrar um novo arquivo
-  - `PUT /api/arquivo/{id}` – Atualizar um arquivo existente
-  - `DELETE /api/arquivo/{id}` – Apagar um arquivo
-
-- **Previsões**
-  - `GET /api/previsao` – Buscar todas as previsões
-  - `GET /api/previsao/{id}` – Buscar previsão por ID
-  - `POST /api/previsao` – Cadastrar uma nova previsão
-  - `PUT /api/previsao/{id}` – Atualizar uma previsão existente
-  - `DELETE /api/previsao/{id}` – Apagar uma previsão
-
-## Contribuições
-
-Sinta-se à vontade para contribuir para o projeto. Se você encontrar um problema ou tiver uma sugestão de melhoria, abra um *issue* ou envie um *pull request*. 
-
+- *Matheus Chagas de Moraes Sampaio* – RM550489 (2TDSPH)
+- *Paulo Henrique Moreira Angueira* – RM99704 (2TDSPH)
+- *Victor Hugo Astorino Barra Mansa* – RM550573 (2TDSPH)
+- *Aleck Ramos Cappucci* – RM551340 (2TDSPM)
+- *Murilo Ribeiro Valério da Silva* – RM550858 (2TDSPF)
 ---
+
+Obrigado por conferir o *DirtyCode*! Se você tiver alguma dúvida ou precisar de assistência, entre em contato com um dos integrantes do grupo.
