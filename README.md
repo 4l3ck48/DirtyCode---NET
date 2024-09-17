@@ -68,7 +68,7 @@ Para rodar a API localmente, siga os passos abaixo:
 - *Paulo Henrique Moreira Angueira* – RM99704 (2TDSPH)
 - *Victor Hugo Astorino Barra Mansa* – RM550573 (2TDSPH)
 - *Aleck Ramos Cappucci* – RM551340 (2TDSPM)
-- *Murilo Ribeiro Valério da Silva* – RM550858 (2TDSPF)
+- *Murilo Ribeiro Valério da Silva* – RM550858 (2TDSA)
 ---
 
 Obrigado por conferir o *DirtyCode*! Se você tiver alguma dúvida ou precisar de assistência, entre em contato com um dos integrantes do grupo.
